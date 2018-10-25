@@ -1,24 +1,20 @@
-# README
+# The Hacking Project - Semaine 4 - Jeudi #
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Projet : Usine ##
 
-Things you may want to cover:
+Une application pour les usines avec un modèle assemblage, qui serait l'assemblage de plusieurs pièces. Une pièce peut appartenir à plusieurs assemblages.
 
-* Ruby version
+## Modèles : ##
 
-* System dependencies
+*  Assembly
+*  Part
 
-* Configuration
+## Auteurs ##
 
-* Database creation
+    Team Caen
+    Camille Deblois, Rauana Roupsard
 
-* Database initialization
+## En savoir plus ##
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+    Project for The hacking Project
+    https://www.thehackingproject.org/
